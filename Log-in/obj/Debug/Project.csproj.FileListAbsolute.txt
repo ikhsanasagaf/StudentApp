@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\bin\Debug\login_regis.mdb
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\bin\Debug\Log-in.exe.config
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\bin\Debug\Log-in.exe
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\bin\Debug\Log-in.pdb
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Log_in.About.resources
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Log_in.FrmLogin.resources
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Log_in.FrmMain.resources
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Log_in.FrmRegister.resources
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Log_in.Home.resources
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Log_in.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Log_in.To_Do.resources
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Log_in.Tools.resources
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Log-in.exe
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Log-in.pdb
+C:\Users\ASUS\source\repos\ProjectApp\Log-in\obj\Debug\Project.csprojAssemblyReference.cache
